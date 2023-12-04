@@ -5,7 +5,7 @@ Introduction​:
 In the NBA, individual players are more important and popular than in other team sports due to basketball's smaller team size and game rules. 
 This has made the NBA a star-driven league, with the all-star game highlighting the best players each season. This research aims to analyze the performance and legacy of these players over 42 years in order to discover the greatest all-stars in modern NBA history.​
 
-Dataset: The dataset used is a representation of the season stats for each all-star from the years 1980-2022
+Dataset (final_data.csv): The dataset used is a representation of the season stats for each all-star from the years 1980-2022
 
 Methodology​: The 3 main questions are:​
 
