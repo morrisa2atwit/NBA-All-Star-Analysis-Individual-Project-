@@ -7,7 +7,7 @@ This has made the NBA a star-driven league, with the all-star game highlighting 
 
 Dataset (final_data.csv): The dataset used is a representation of the season stats for each all-star from the years 1980-2022
 
-Methodology​: The 3 main questions are:​
+Methods: The 3 main questions are:​
 
 1. Who made the most all-star appearances between 1980-2022?​
 
@@ -15,7 +15,7 @@ Methodology​: The 3 main questions are:​
 
 3. Out of all the all-star players, who has the highest career scoring average?​
    
-Pandas, NumPy, and matplotlib were used to extract and analyze data. ​
+Pandas was used to analyze numerical datasets. 
 
 Most All-star appearances​: 
 To solve this question, we may need to use the group-by method (grouping player names) along with some aggregation. 
@@ -27,6 +27,18 @@ This will be done with a similar method to the previous question, except with pr
 Highest points per game​: 
 The main method philosophy here will be calculating average and sorting them out. 
 The points data will be considered numerical values, the mean of the scoring years will be calculated, and each cumulative scoring average will be compared in descending order. 
+
+Results:
+The results were truly fascinating! Some of them were truly unexpected, whereas others may have been easily predicted. 
+Either way, they give us enough data to make various conclusions and discussions later on.​
+
+Question 1's results:
+we discovered that it is none other than LeBron James who has the most all-star appearances between 1980-2022. 
+LeBron has an ironclad reputation for being the most durable player in league history and, as a result, his status as the all-star king is not too much of a surprise,
+as he is the NBA's all-time leading scorer with nearly 40,000 points.​
+
+Question 2's results:
+
 
 Works Cited:
 [EthanKeyes, Zeke Hall], [November 2023], [NBA All Star Players and Stats 1980-2022], [Version 1], [Retrieved 12/02/23 from https://www.kaggle.com/datasets/ethankeyes/nba-all-star-players-and-stats-1980-2022/data]
