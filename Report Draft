@@ -15,7 +15,7 @@ Methods: The 3 main questions are:​
 
 3. Out of all the all-star players, who has the highest career scoring average?​
    
-Pandas was used to analyze numerical datasets. 
+Pandas was used to analyze numerical datasets, whereas matplotlib was used to create tables in the form of an image file.
 
 Most All-star appearances​: 
 To solve this question, we may need to use the group-by method (grouping player names) along with some aggregation. 
